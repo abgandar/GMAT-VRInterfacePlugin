@@ -9,3 +9,7 @@ https://gmat.atlassian.net/wiki/spaces/GW/pages/380273239/How+to+write+a+Plugin
 
 
 My report highlights environment/version-specific considerations.
+
+
+
+The built project, as of report writing, can be found in the Releases. 
